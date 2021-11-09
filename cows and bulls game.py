@@ -52,7 +52,7 @@ def run_game():
     name= welcome()
     secret_number= generate_secret_number()
     game(secret_number,name)
-    print("terefere")
+
 
 
 
